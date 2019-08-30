@@ -1,0 +1,15 @@
+{
+  "name": "flatten-jagged-array",
+  "version": "1.0.0",
+  "description": "Flatten a jagged multi-dimensional array",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "jest"
+  },
+  "author": "Chris Gruber",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
